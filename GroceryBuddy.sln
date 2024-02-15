@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryBuddy", "GroceryBuddy\GroceryBuddy\GroceryBuddy.csproj", "{6AC2B848-A7A9-47F8-ACAF-AE868483D27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "GroceryBuddy\DAL\DAL.csproj", "{4EF3CFF3-A394-4679-8E99-2DD55691837C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC2B848-A7A9-47F8-ACAF-AE868483D27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC2B848-A7A9-47F8-ACAF-AE868483D27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC2B848-A7A9-47F8-ACAF-AE868483D27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC2B848-A7A9-47F8-ACAF-AE868483D27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EF3CFF3-A394-4679-8E99-2DD55691837C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EF3CFF3-A394-4679-8E99-2DD55691837C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EF3CFF3-A394-4679-8E99-2DD55691837C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EF3CFF3-A394-4679-8E99-2DD55691837C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4DFDDCED-8C18-4EC1-B3DD-0B730C9D36A5}
+	EndGlobalSection
+EndGlobal

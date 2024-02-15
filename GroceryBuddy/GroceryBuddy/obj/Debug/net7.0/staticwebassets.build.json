@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "2HOoxtIxSRx8KjLymEh3TzTW+uQ1FCkUsP7ScXyRUeU=",
+  "Source": "GroceryBuddy",
+  "BasePath": "_content/GroceryBuddy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "GroceryBuddy\\wwwroot",
+      "Source": "GroceryBuddy",
+      "ContentRoot": "C:\\Users\\kanha\\source\\repos\\GroceryBuddy\\GroceryBuddy\\GroceryBuddy\\wwwroot\\",
+      "BasePath": "_content/GroceryBuddy",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\kanha\\source\\repos\\GroceryBuddy\\GroceryBuddy\\GroceryBuddy\\wwwroot\\favicon.ico",
+      "SourceId": "GroceryBuddy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\kanha\\source\\repos\\GroceryBuddy\\GroceryBuddy\\GroceryBuddy\\wwwroot\\",
+      "BasePath": "_content/GroceryBuddy",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kanha\\source\\repos\\GroceryBuddy\\GroceryBuddy\\GroceryBuddy\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.GroceryBuddy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.GroceryBuddy.props",
+      "PackagePath": "build\\GroceryBuddy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.GroceryBuddy.props",
+      "PackagePath": "buildMultiTargeting\\GroceryBuddy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.GroceryBuddy.props",
+      "PackagePath": "buildTransitive\\GroceryBuddy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
